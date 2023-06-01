@@ -1,5 +1,5 @@
-# SharedLib-Template
-Template for creating SharedLib(DLL) applications
+# CPP-DLL-Template
+Template for creating DLL applications using C++
 
 #Instructions:
 
